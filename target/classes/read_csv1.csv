@@ -1,0 +1,11 @@
+student_id,exam_center_id,subject,year,quarter,score,grade
+1,1,Math,2005,1,41,D
+1,1,Spanish,2005,1,51,C
+1,1,German,2005,1,39,D
+1,1,Physics,2005,1,35,D
+1,1,Math,2005,1,53,C
+1,1,Philosophy,2005,1,73,B
+1,121,Modern,2005,1,32,E
+1,1,History,2005,1,43,D
+1,1,Math,2005,1,54,C
+1,one,Math,2005,1,60,C
